@@ -29,6 +29,48 @@ note : this section is given as indication and do not need to be followed.
 * The game must not use non open source resources. ( External API can be used but are not recommended because of the time limitation )
 * The game must use Python 3.7.1 ( last stable version of Python)
 * The game must use at least the PyGame library as it is a ready to use library for creating game in python.
+
+# Ressources de la Game-Jam 2.0
+
+## L'API Pygame :
+
+> lien de [l'API Pygame](https://www.pygame.org/docs/)
+
+## Les tilesets 2D :
+
+### Animations pour personnage :
+   #### 2D Horizontal :
+
+   - [multiples personnages style cartoon](https://www.gameart2d.com/freebies.html)
+
+   - [archer, mage, chevalier style cartoon](https://www.gamedevmarket.net/asset/fantasy-heroes-character-sprite-sheet-10156/)
+
+### Décors :
+
+  - [contrée désertique](https://craftpix.net/freebies/free-2d-rpg-desert-tileset/)
+
+### Entités inertes :
+
+  - [maisons, statues, arbres, rochers, ...](https://vxresource.wordpress.com/category/resources/tilesets/)
+
+### Entités vivantes :
+
+  - [fantasy monstres et boss](https://www.gamedevmarket.net/asset/free-rpg-monster-pack/)
+
+### Items :
+
+  - [Epées, arcs, casques, ...](https://www.gamedevmarket.net/asset/rpg-item-pack-16x16-free/)
+  - [8 RPG items](https://www.gamedevmarket.net/asset/free-item-pack-9232/)
+  - [48 gemmes différentes](https://www.gamedevmarket.net/asset/free-48-gems-icon-pack/)
+
+## Liens des sites de tilesets :
+
+  - [Gamedevmarket](https://www.gamedevmarket.net/category/2d/?type=free&genre=fantasy&orderby=popularity)
+
+  - [RPG maker](https://rpgmaker.net/resources/)
+
+  - [RPG maker MV](https://rpgmakermv.co/resources/categories/tilesets.9/)
+
 ```
 $ pip install pygame
 ```
