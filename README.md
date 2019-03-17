@@ -1,4 +1,33 @@
-# Game Jam - v.2.0
+# Louvain-li-Nux's GAME JAM 2.0
+Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it means that you like challenges and you want to code your game in 24 hours. In this guide, you will find all the necessary information to finish this Game Jam safe and alive. 
+
+### About the organizers and sponsors
+**Louvain-li-Nux**: This Game Jam is organized by the Louvain-li-Nux, a kot-à-projet that aims to defend and promote the values of free software through the student and academic community of Louvain-la-Neuve. To do this, we organize many activities allowing participants to meet and exchange around computing, while discovering a plethora of open-sourced and, often, free tools. 
+
+![Logo of Louvain-li-Nux](https://louvainlinux.org/images/logo.png)
+
+**INGI**: The INGI department graciously offered the computer rooms for the Game Jam. 
+
+![Logo of INGI](https://avatars3.githubusercontent.com/u/8342035?s=100&v=4)
+
+## Schedule
+* **Saturday**
+    * *Sat 2.00PM* - Introduction speech by the Louvain-li-Nux and presentation of the sponsors
+    * *Sat 2.30PM* - Start of the Game Jam with the revelation of the theme
+    * *Sat 7.00PM* - Dinner available (2 hours)
+* **Sunday**
+    * *Sun 8.00AM* - Breakfast available (2 hours)
+    * *Sun 12.00PM* - Lunch available (2 hours)
+    * *Sun 2.30PM* - End of the Game Jam and presentation to the jury
+    * *Sun 3.30PM* - Announcement of the winner by the jury
+    * *Sun 4.00PM* - Final drink
+
+* **H24** Snacks and drinks will be available to buy during the 24 hours of the Game Jam. 
+
+## Structure of the Game Jam
+* You will form groups of 3 to 4 people.
+* The Louvain-li-Nux's team is there to help you if you have any question about the Game Jam. Be aware that some of them are not proficient in ``python``. For questions about python's syntax, libraries or APIs, please use https://stackoverflow.com/ or the Official Game Jam 2.0 Discord at https://discord.gg/CthqEKs
+
 ## Organization
 ### General information about the structure
 * Group of 3 or 4 have been formed or will be formed for the D-day.
