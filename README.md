@@ -1,8 +1,8 @@
 # Louvain-li-Nux's GAME JAM 2.0
-Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it means that you like challenges and you want to code your game in 24 hours. In this guide, you will find all the necessary information to finish this Game Jam safe and alive. 
+Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it means that you like challenges and you want to code your own game in 24 hours. In this guide, you will find all the necessary information to finish this Game Jam safe and alive. 
 
 ### About the organizers and sponsors
-**Louvain-li-Nux**: This Game Jam is organized by the Louvain-li-Nux, a kot-à-projet that aims to defend and promote the values of free software through the student and academic community of Louvain-la-Neuve. To do this, we organize many activities allowing participants to meet and exchange around computing, while discovering a plethora of open-sourced and, often, free tools. 
+**Louvain-li-Nux**: This Game Jam is organized by the Louvain-li-Nux, a kot-à-projet that aims to defend and promote the values of free software through the students and academic community of Louvain-la-Neuve. To do this, we organize many activities allowing participants to meet and exchange around computing, while discovering a plethora of open-sourced and, often, free tools. 
 
 ![Logo of Louvain-li-Nux](https://louvainlinux.org/images/logo.png)
 
@@ -46,7 +46,7 @@ Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it 
 * Select the coolest one and present it to a member of the Louvain-li-Nux, he will give you some feedback.
 * If you encounter some problems during the conception of your game, you can still go back to a previous idea.
 
-Note : this section is given as an indication and do not need to be strictly followed.
+Note : this section is given as an indication and does not need to be strictly followed.
 
 # Ressources de la Game-Jam 2.0
 
