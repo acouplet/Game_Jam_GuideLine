@@ -28,6 +28,9 @@ Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it 
 * You will form groups of 3 to 4 people.
 * The theme of the Game Jam will be randomly selected at 2.30PM on the first day. 
 * The Louvain-li-Nux's team is there to help you if you have any question about the Game Jam. Be aware that some of them are not proficient in ``python``. For questions about python's syntax, libraries or APIs, please use https://stackoverflow.com/ or the Official Game Jam 2.0 Discord at https://discord.gg/CthqEKs (do not hesitate to post dank memes on it)
+* The jury is composed by members of the Louvain-li-Nux.
+* By the end of the Game Jam, your group should have submitted its game by putting it on a public git (ask a member of the Louvain-li-Nux if you do not know how it works) and sending us the repository via this form : https://framaforms.org/game-jam-submission-form-1553288468
+* All games made during the Game Jam will be available on a public git.
 
 ## Game's specifications
 * The game must be written in Python 3.6.7 or newer
