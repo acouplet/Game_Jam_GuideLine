@@ -20,9 +20,10 @@ Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it 
     * *Sun 12.00PM* - Lunch available (2 hours)
     * *Sun 2.30PM* - End of the Game Jam and presentation to the jury
     * *Sun 3.30PM* - Announcement of the winner by the jury
-    * *Sun 4.00PM* - Final drink
 
 * **H24** Snacks and drinks will be available to buy during the 24 hours of the Game Jam. 
+
+*Disclaimer*: The organizers are not responsible in case of non-respect of the schedule
 
 ## Structure of the Game Jam
 * You will form groups of 3 to 4 people.
@@ -40,6 +41,20 @@ Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it 
 * There is no need to code a menu to your game.
 * The game has to be original and must therefore not be a copy of another game. 
 
+## Evaluation grid
+This grid will be used by the jury to find the winner of the Game Jam. 
+
+| Criterion | Description | Importance |
+|---------|-------------|------|
+| Originality and fun | The more fun the jury has while playing your game, the more points you will have in this category. In addition, the jury will award some extra points if the gameplay is original | 20 |
+| Interface and control | The quicker and easier the jury will take your game in hand, the more points you will have in this category | 10 |
+| Music and sound effects | Some sound effects and background music can be nice | 5 |
+| Fluidity | Absence of lags and bugs | 5 |
+| Graphics | Is your game beautiful ? | 5 |
+| Potential | Can your game be extended ? | 5 |
+| Readability and reusability of the code | Since your game is open source, the jury will be particularly attentive to the fact that the code can be read and used by outsiders | 10 |
+| Honorable Mentions | The jury can choose to add you some points according to some small criteria that it will keep secret | 5 |
+
 ## Tips, tricks and resources
 ### Guidelines through a creative project
 * Brainstorming is the key ! Gather as many ideas as you can. 
@@ -51,52 +66,11 @@ Welcome to the Louvain-li-Nux's GAME JAM 2.0. If you are reading this guide, it 
 
 Note : this section is given as an indication and does not need to be strictly followed.
 
-# Ressources de la Game-Jam 2.0
+### Python game development libraries
+* **pygame**: https://www.pygame.org/
+* **pyglet**: https://www.pyglet.org/
+* **Arcade**: http://arcade.academy/
+* **cocos2d**: http://python.cocos2d.org/
 
-## L'API Pygame :
-
-> lien de [l'API Pygame](https://www.pygame.org/docs/)
-
-## Les tilesets 2D :
-
-### Animations pour personnage :
-   #### 2D Horizontal :
-
-   - [multiples personnages style cartoon](https://www.gameart2d.com/freebies.html)
-
-   - [archer, mage, chevalier style cartoon](https://www.gamedevmarket.net/asset/fantasy-heroes-character-sprite-sheet-10156/)
-
-### Décors :
-
-  - [contrée désertique](https://craftpix.net/freebies/free-2d-rpg-desert-tileset/)
-
-### Entités inertes :
-
-  - [maisons, statues, arbres, rochers, ...](https://vxresource.wordpress.com/category/resources/tilesets/)
-
-### Entités vivantes :
-
-  - [fantasy monstres et boss](https://www.gamedevmarket.net/asset/free-rpg-monster-pack/)
-
-### Items :
-
-  - [Epées, arcs, casques, ...](https://www.gamedevmarket.net/asset/rpg-item-pack-16x16-free/)
-  - [8 RPG items](https://www.gamedevmarket.net/asset/free-item-pack-9232/)
-  - [48 gemmes différentes](https://www.gamedevmarket.net/asset/free-48-gems-icon-pack/)
-
-## Liens des sites de tilesets :
-
-  - [Gamedevmarket](https://www.gamedevmarket.net/category/2d/?type=free&genre=fantasy&orderby=popularity)
-
-  - [RPG maker](https://rpgmaker.net/resources/)
-
-  - [RPG maker MV](https://rpgmakermv.co/resources/categories/tilesets.9/)
-
-```
-$ pip install pygame
-```
-if pip is not installed by default :
-```
-$ sudo apt-get install python3-pip
-$ sudo apt-get update
-```
+### Other resources
+The biggest list of game development resources on the web: https://game-development.zeef.com/david.arcila
